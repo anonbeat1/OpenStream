@@ -39,22 +39,22 @@ Config local proxy:
 
 <br>
 
+Open page on any browser:
+- [OpenSea activity] (page activity, filter by chain eth)
+
+<br>
+
 Start mitmproxy: 
 ```
   mitmproxy -s RequestStream.py
 ```
-
-<br>
-
-Open page on any browser:
-- [OpenSea activity] (page activity, filter by chain eth)
 <br>
 
 Every 5 minutes, you can find the response in data.txt file (is auto-generated)
 
 ## If you want to try it with your own telegram channel
 
-Set into [Opensea_Stream_Analyzer.ipynb] 
+Set into [TelegramCaller.py] 
   - <kbd>TELEGRAM_TOKEN</kbd>
   - <kbd>CHAT_ID</kbd>
 
@@ -79,6 +79,7 @@ Join the conversation and help the community.
   <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
 [data.txt]: data.txt
+[TelegramCaller.py]: TelegramCaller.py
 [discord]: https://discord.gg/hBzvYeWn
 [OpenSea activity]: https://opensea.io/activity?search[chains][0]=ETHEREUM
 [mitmproxy]: https://mitmproxy.org/

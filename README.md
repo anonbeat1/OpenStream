@@ -78,7 +78,7 @@ Join the conversation and help the community.
 <a href="https://www.buymeacoffee.com/spilotrica1">
   <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
-
+[data.txt]: data.txt
 [discord]: https://discord.gg/hBzvYeWn
 [OpenSea activity]: https://opensea.io/activity?search[chains][0]=ETHEREUM
 [mitmproxy]: https://mitmproxy.org/

@@ -1,2 +1,6 @@
 __pycache__
 .ipynb_checkpoints
+report_600sec.csv
+slug_info.json
+chart.png
+data.txt

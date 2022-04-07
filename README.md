@@ -75,9 +75,6 @@ Join the conversation and help the community.
  - ETH: 0xD528F629fc4165458BBba6c7ff889C29a951aebF
  - BTC: 3EkUnn9jpnPLZDMnwgScMtTtvJZXuD4UYw
 
-<a href="https://www.buymeacoffee.com/spilotrica1">
-  <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
-
 [data.txt]: data.txt
 [TelegramCaller.py]: TelegramCaller.py
 [discord]: https://discord.gg/hBzvYeWn

@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://discord.gg/hBzvYeWn">
+  <a href="https://discord.gg/7jsjcVuQtx">
     <img src="https://img.shields.io/discord/933752833398956032.svg?logo=discord&logoColor=fff&label=Discord&color=7389d8" alt="Discord conversation" />
   </a>&nbsp;
   <img src="https://img.shields.io/github/pipenv/locked/python-version/anonbeat1/OpenStream?logo=python&logoColor=fff" alt="Python version" />
